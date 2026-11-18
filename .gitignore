@@ -1,0 +1,23 @@
+# Bases de datos locales (la app recrea datos/monitoreo.db desde datos/torito_4_puntos.csv)
+datos/monitoreo.db
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Contraseña de acceso (usar .streamlit/secrets.toml.ejemplo como modelo)
+.streamlit/secrets.toml
+
+# Entorno y cachés de Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Scripts de QA, capturas y bases de prueba (solo uso local)
+pruebas_qa/
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini
+.DS_Store

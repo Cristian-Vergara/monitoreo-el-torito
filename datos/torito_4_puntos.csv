@@ -1,0 +1,1870 @@
+fuente,fecha,punto,parametro,valor,unidad,calificador,grupo,simulado
+AG2,2021-03-24 00:00,Laguna AO-3,Aluminio Total,0.21,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Arsénico Total,0.002,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Berilio Total,0.09,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Bicarbonato,30.9,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Boro Total,0.26,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Cadmio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Calcio Total,479.0,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Carbonato,0.2,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Cinc Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Cloruro,136.67,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Cobre Total,0.09,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Conductividad Eléctrica,2778.0,uS/cm,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Conductividad Eléctrica,2652.0,uS/cm,Igual,Parámetros de terreno,0
+AG2,2021-03-24 00:00,Laguna AO-3,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG2,2021-03-24 00:00,Laguna AO-3,Fluoruro,0.14,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Hierro Total,0.38,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Magnesio Total,4.21,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Manganeso Total,0.23,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Plomo Total,0.16,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Potasio Total,32.46,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Potencial de Hidrógeno,7.2,unidad pH,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Potencial de Hidrógeno,8.64,unidad pH,Igual,Parámetros de terreno,0
+AG2,2021-03-24 00:00,Laguna AO-3,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Sodio Porcentual,29.2,%,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Sodio Total,238.9,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Sulfato,1326.1,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Sólidos Disueltos Totales,2227.0,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-24 00:00,Laguna AO-3,Temperatura,20.47,°C,Igual,Parámetros de terreno,0
+AG2,2021-03-24 00:00,Laguna AO-3,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Aluminio Total,0.06,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Bicarbonato,139.0,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Boro Total,0.2,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Cadmio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Calcio Total,388.42,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Carbonato,0.2,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Cinc Total,0.03,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Cloruro,92.0,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Cobre Total,0.02,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Color Verdadero,5.0,Escala Pt-Co,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Compuestos Fenólicos,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Conductividad Eléctrica,2499.0,uS/cm,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Conductividad Eléctrica,18.67,uS/cm,Igual,Parámetros de terreno,0
+AG2,2021-03-25 00:00,Pozo 8/A,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG2,2021-03-25 00:00,Pozo 8/A,Fluoruro,0.07,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Hierro Total,0.05,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Magnesio Total,66.42,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Molibdeno Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Nitrato,1.15,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Nitrito,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Potasio Total,5.27,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Potencial de Hidrógeno,6.7,unidad pH,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Potencial de Hidrógeno,7.42,unidad pH,Igual,Parámetros de terreno,0
+AG2,2021-03-25 00:00,Pozo 8/A,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Sodio Porcentual,25.5,%,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Sodio Total,196.98,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Sulfato,1204.3,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Sólidos Disueltos Totales,2160.0,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Sólidos Totales,2205.0,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Temperatura,2490.0,°C,Igual,Parámetros de terreno,0
+AG2,2021-03-25 00:00,Pozo 8/A,Turbiedad,2.4,UNT,Igual,Parámetros de laboratorio,0
+AG2,2021-03-25 00:00,Pozo 8/A,Vanadio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Bicarbonato,149.7,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Boro Total,0.03,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Cadmio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Calcio Total,356.84,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Carbonato,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Cinc Total,0.11,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Cloruro,77.38,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Conductividad Eléctrica,2239.0,uS/cm,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Conductividad Eléctrica,2075.0,uS/cm,Igual,Parámetros de terreno,0
+AG2,2021-06-09 00:00,Pozo 8/A,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG2,2021-06-09 00:00,Pozo 8/A,Fluoruro,0.02,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Hierro Total,0.07,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Magnesio Total,66.41,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Potasio Total,1.07,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Potencial de Hidrógeno,7.6,unidad pH,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Potencial de Hidrógeno,7.73,unidad pH,Igual,Parámetros de terreno,0
+AG2,2021-06-09 00:00,Pozo 8/A,Razón de Adsorción de Sodio,0.67,-,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Sodio Porcentual,8.9,%,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Sodio Total,52.61,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Sulfato,892.0,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Sólidos Disueltos Totales,1724.0,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-09 00:00,Pozo 8/A,Temperatura,19.09,°C,Igual,Parámetros de terreno,0
+AG2,2021-06-09 00:00,Pozo 8/A,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Aluminio Total,0.14,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Arsénico Total,0.001,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Bicarbonato,29.5,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Boro Total,0.17,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Cadmio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Calcio Total,513.52,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Carbonato,0.2,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Cinc Total,0.03,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Cloruro,113.73,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Coliformes Fecales,1.8,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Conductividad Eléctrica,2606.0,uS/cm,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Conductividad Eléctrica,2637.0,uS/cm,Igual,Parámetros de terreno,0
+AG2,2021-06-16 00:00,Laguna AO-3,Cromo Total,0.01,uS/cm,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG2,2021-06-16 00:00,Laguna AO-3,Fluoruro,0.04,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Hierro Total,0.11,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Magnesio Total,3.93,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Molibdeno Total,0.06,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Potasio Total,30.51,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Potencial de Hidrógeno,7.4,unidad pH,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Potencial de Hidrógeno,7.84,unidad pH,Igual,Parámetros de terreno,0
+AG2,2021-06-16 00:00,Laguna AO-3,Razón de Adsorción de Sodio,2.7,-,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Sodio Porcentual,26.5,%,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Sodio Total,222.34,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Sulfato,1183.3,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Sólidos Disueltos Totales,2306.0,mg/L,Igual,Parámetros de laboratorio,0
+AG2,2021-06-16 00:00,Laguna AO-3,Temperatura,15.42,°C,Igual,Parámetros de terreno,0
+AG2,2021-06-16 00:00,Laguna AO-3,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 00:00,Laguna AO-3,Conductividad Eléctrica,2670.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2021-09-01 00:00,Laguna AO-3,Potencial de Hidrógeno,7.82,unidad pH,Igual,Parámetros de terreno,0
+AG1,2021-09-01 00:00,Laguna AO-3,Temperatura,15.98,°C,Igual,Parámetros de terreno,0
+AG1,2021-09-01 00:00,Pozo 8/A,Conductividad Eléctrica,2139.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2021-09-01 00:00,Pozo 8/A,Potencial de Hidrógeno,7.95,unidad pH,Igual,Parámetros de terreno,0
+AG1,2021-09-01 00:00,Pozo 8/A,Temperatura,17.48,°C,Igual,Parámetros de terreno,0
+AG1,2021-09-01 09:39,Pozo 8/A,Aluminio Total,0.07,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Bicarbonato,181.8,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-09-01 09:39,Pozo 8/A,Boro Total,0.14,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Cadmio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Calcio Disuelto,286.53,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-01 09:39,Pozo 8/A,Calcio Total,287.83,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2021-09-01 09:39,Pozo 8/A,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Cinc Total,0.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Cloruro,63.11,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-09-01 09:39,Pozo 8/A,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Cobre Total,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Conductividad Eléctrica,2024.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2021-09-01 09:39,Pozo 8/A,Fluoruro,0.18,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Hierro Total,0.14,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Magnesio Disuelto,63.96,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-01 09:39,Pozo 8/A,Magnesio Total,67.45,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Manganeso Total,0.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Nitrato,5.27,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Potasio Disuelto,1.41,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-01 09:39,Pozo 8/A,Potasio Total,1.7,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Potencial de Hidrógeno,8.0,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Razón de Adsorción de Sodio,2.1,-,Igual,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Sodio Disuelto,148.8,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-01 09:39,Pozo 8/A,Sodio Porcentual,24.7,%,Igual,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Sodio Total,150.45,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Sulfato,959.3,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-09-01 09:39,Pozo 8/A,Sólidos Disueltos Totales,1748.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 09:39,Pozo 8/A,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Aluminio Total,0.29,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Bicarbonato,28.9,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-09-01 11:48,Laguna AO-3,Boro Total,0.22,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Calcio Disuelto,386.0,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-01 11:48,Laguna AO-3,Calcio Total,387.76,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2021-09-01 11:48,Laguna AO-3,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Cinc Total,0.06,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Cloruro,120.93,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-09-01 11:48,Laguna AO-3,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Cobre Total,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Conductividad Eléctrica,2492.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2021-09-01 11:48,Laguna AO-3,Fluoruro,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Hierro Total,0.38,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Magnesio Disuelto,4.47,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-01 11:48,Laguna AO-3,Magnesio Total,4.55,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Manganeso Total,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Nitrato,2.15,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Potasio Disuelto,26.75,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-01 11:48,Laguna AO-3,Potasio Total,29.63,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Potencial de Hidrógeno,7.5,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Razón de Adsorción de Sodio,3.1,-,Igual,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Sodio Disuelto,214.4,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-01 11:48,Laguna AO-3,Sodio Porcentual,32.5,%,Igual,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Sodio Total,227.2,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Sulfato,1245.0,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-09-01 11:48,Laguna AO-3,Sólidos Disueltos Totales,2046.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-01 11:48,Laguna AO-3,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 00:00,ET-0F,Conductividad Eléctrica,483.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2021-09-15 00:00,ET-0F,Potencial de Hidrógeno,8.29,unidad pH,Igual,Parámetros de terreno,0
+AG1,2021-09-15 00:00,ET-0F,Temperatura,14.6,°C,Igual,Parámetros de terreno,0
+AG1,2021-09-15 08:51,ET-0F,Aluminio Total,0.06,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Bicarbonato,129.7,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-09-15 08:51,ET-0F,Boro Total,0.08,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Calcio Disuelto,51.87,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-15 08:51,ET-0F,Calcio Total,55.12,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2021-09-15 08:51,ET-0F,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Cinc Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Cloruro,25.39,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-09-15 08:51,ET-0F,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Coliformes Fecales,170.0,NMP/100ml,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Conductividad Eléctrica,482.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2021-09-15 08:51,ET-0F,Fluoruro,0.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Hierro Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Magnesio Disuelto,15.14,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-15 08:51,ET-0F,Magnesio Total,20.09,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Potasio Disuelto,1.22,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-15 08:51,ET-0F,Potasio Total,1.4,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Potencial de Hidrógeno,8.1,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Razón de Adsorción de Sodio,0.44,-,Igual,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Sodio Disuelto,13.81,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-15 08:51,ET-0F,Sodio Porcentual,12.7,%,Igual,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Sodio Total,14.93,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Sulfato,93.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-09-15 08:51,ET-0F,Sólidos Disueltos Totales,310.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-15 08:51,ET-0F,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 00:00,ET-0F,Conductividad Eléctrica,355.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2021-09-24 00:00,ET-0F,Potencial de Hidrógeno,8.15,unidad pH,Igual,Parámetros de terreno,0
+AG1,2021-09-24 00:00,ET-0F,Temperatura,17.97,°C,Igual,Parámetros de terreno,0
+AG1,2021-09-24 08:20,ET-0F,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Bicarbonato,106.6,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-09-24 08:20,ET-0F,Boro Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Calcio Disuelto,37.01,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-24 08:20,ET-0F,Calcio Total,38.01,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2021-09-24 08:20,ET-0F,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Cinc Total,0.01,mg/L,Igual,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Cloruro,9.05,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-09-24 08:20,ET-0F,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Coliformes Fecales,17.0,NMP/100ml,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Conductividad Eléctrica,340.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2021-09-24 08:20,ET-0F,Fluoruro,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Hierro Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Magnesio Disuelto,9.73,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-24 08:20,ET-0F,Magnesio Total,9.98,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Nitrato,3.58,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Potasio Disuelto,0.83,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-24 08:20,ET-0F,Potasio Total,0.95,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Potencial de Hidrógeno,8.2,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Razón de Adsorción de Sodio,0.4,-,Igual,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Sodio Disuelto,10.39,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-09-24 08:20,ET-0F,Sodio Porcentual,14.4,%,Igual,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Sodio Total,10.61,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Sulfato,54.8,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-09-24 08:20,ET-0F,Sólidos Disueltos Totales,228.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-09-24 08:20,ET-0F,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 00:00,ET-0F,Conductividad Eléctrica,429.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2021-10-01 00:00,ET-0F,Potencial de Hidrógeno,8.47,unidad pH,Igual,Parámetros de terreno,0
+AG1,2021-10-01 00:00,ET-0F,Temperatura,18.06,°C,Igual,Parámetros de terreno,0
+AG1,2021-10-01 00:00,Laguna AO-3,Conductividad Eléctrica,2873.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2021-10-01 00:00,Laguna AO-3,Potencial de Hidrógeno,7.1,unidad pH,Igual,Parámetros de terreno,0
+AG1,2021-10-01 00:00,Laguna AO-3,Temperatura,19.96,°C,Igual,Parámetros de terreno,0
+AG1,2021-10-01 11:10,Laguna AO-3,Aluminio Total,0.14,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Bicarbonato,31.4,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-10-01 11:10,Laguna AO-3,Boro Total,0.23,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Calcio Disuelto,364.61,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-10-01 11:10,Laguna AO-3,Calcio Total,365.9,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2021-10-01 11:10,Laguna AO-3,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Cinc Total,0.06,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Cloruro,135.19,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-10-01 11:10,Laguna AO-3,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Coliformes Fecales,2.0,NMP/100ml,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Conductividad Eléctrica,2827.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2021-10-01 11:10,Laguna AO-3,Fluoruro,0.11,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Hierro Total,0.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Litio Total,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Magnesio Disuelto,2.66,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-10-01 11:10,Laguna AO-3,Magnesio Total,2.79,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Potasio Disuelto,26.82,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-10-01 11:10,Laguna AO-3,Potasio Total,27.92,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Potencial de Hidrógeno,7.0,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Razón de Adsorción de Sodio,2.9,-,Igual,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Sodio Disuelto,200.71,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-10-01 11:10,Laguna AO-3,Sodio Porcentual,31.3,%,Igual,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Sodio Total,202.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Sulfato,1304.9,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-10-01 11:10,Laguna AO-3,Sólidos Disueltos Totales,2166.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 11:10,Laguna AO-3,Vanadio Total,0.006,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Aluminio Total,0.06,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Bicarbonato,103.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-10-01 12:40,ET-0F,Boro Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Calcio Disuelto,48.68,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-10-01 12:40,ET-0F,Calcio Total,49.54,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2021-10-01 12:40,ET-0F,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Cinc Total,0.01,mg/L,Igual,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Cloruro,17.19,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-10-01 12:40,ET-0F,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Cobre Total,0.09,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Coliformes Fecales,49.0,NMP/100ml,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Conductividad Eléctrica,434.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2021-10-01 12:40,ET-0F,Fluoruro,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Hierro Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Magnesio Disuelto,13.46,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-10-01 12:40,ET-0F,Magnesio Total,14.77,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Potasio Disuelto,0.01,mg/L,Menor a,Cationes mayoritarios,0
+AG1,2021-10-01 12:40,ET-0F,Potasio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Potencial de Hidrógeno,6.7,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Razón de Adsorción de Sodio,0.7,-,Igual,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Sodio Disuelto,20.73,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-10-01 12:40,ET-0F,Sodio Porcentual,20.4,%,Igual,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Sodio Total,21.83,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Sulfato,84.9,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-10-01 12:40,ET-0F,Sólidos Disueltos Totales,310.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-01 12:40,ET-0F,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 00:00,Pozo 8/A,Conductividad Eléctrica,2398.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2021-10-06 00:00,Pozo 8/A,Potencial de Hidrógeno,8.01,unidad pH,Igual,Parámetros de terreno,0
+AG1,2021-10-06 00:00,Pozo 8/A,Temperatura,20.41,°C,Igual,Parámetros de terreno,0
+AG1,2021-10-06 11:00,Pozo 8/A,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Bicarbonato,187.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-10-06 11:00,Pozo 8/A,Boro Total,0.08,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Calcio Disuelto,318.03,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-10-06 11:00,Pozo 8/A,Calcio Total,322.42,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2021-10-06 11:00,Pozo 8/A,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Cinc Total,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Cloruro,86.21,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-10-06 11:00,Pozo 8/A,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Conductividad Eléctrica,2379.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2021-10-06 11:00,Pozo 8/A,Fluoruro,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Hierro Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Magnesio Disuelto,64.85,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-10-06 11:00,Pozo 8/A,Magnesio Total,66.46,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Potasio Disuelto,3.42,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-10-06 11:00,Pozo 8/A,Potasio Total,3.44,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Potencial de Hidrógeno,7.9,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Razón de Adsorción de Sodio,1.9,-,Igual,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Sodio Disuelto,139.22,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-10-06 11:00,Pozo 8/A,Sodio Porcentual,22.2,%,Igual,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Sodio Total,142.34,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Sulfato,960.8,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-10-06 11:00,Pozo 8/A,Sólidos Disueltos Totales,1814.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-10-06 11:00,Pozo 8/A,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 00:00,Pozo 8/A,Conductividad Eléctrica,2154.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2021-11-18 00:00,Pozo 8/A,Potencial de Hidrógeno,7.73,unidad pH,Igual,Parámetros de terreno,0
+AG1,2021-11-18 00:00,Pozo 8/A,Temperatura,19.07,°C,Igual,Parámetros de terreno,0
+AG1,2021-11-18 11:29,Pozo 8/A,Aluminio Total,0.37,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Bicarbonato,200.5,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-11-18 11:29,Pozo 8/A,Boro Total,0.08,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Calcio Disuelto,307.86,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-11-18 11:29,Pozo 8/A,Calcio Total,328.85,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2021-11-18 11:29,Pozo 8/A,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Cinc Total,0.09,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Cloruro,78.3,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-11-18 11:29,Pozo 8/A,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Conductividad Eléctrica,2262.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2021-11-18 11:29,Pozo 8/A,Fluoruro,0.45,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Hierro Total,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Magnesio Disuelto,61.36,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-11-18 11:29,Pozo 8/A,Magnesio Total,72.19,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Potasio Disuelto,3.08,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-11-18 11:29,Pozo 8/A,Potasio Total,3.6,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Potencial de Hidrógeno,7.8,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Razón de Adsorción de Sodio,1.9,-,Igual,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Sodio Disuelto,143.11,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-11-18 11:29,Pozo 8/A,Sodio Porcentual,22.3,%,Igual,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Sodio Total,148.65,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Sulfato,905.3,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-11-18 11:29,Pozo 8/A,Sólidos Disueltos Totales,1768.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-18 11:29,Pozo 8/A,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 00:00,Laguna AO-3,Conductividad Eléctrica,3040.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2021-11-25 00:00,Laguna AO-3,Potencial de Hidrógeno,7.75,unidad pH,Igual,Parámetros de terreno,0
+AG1,2021-11-25 00:00,Laguna AO-3,Temperatura,24.25,°C,Igual,Parámetros de terreno,0
+AG1,2021-11-25 11:43,Laguna AO-3,Aluminio Total,0.07,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Arsénico Total,0.002,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Bicarbonato,42.2,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-11-25 11:43,Laguna AO-3,Boro Total,0.24,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Calcio Disuelto,522.69,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-11-25 11:43,Laguna AO-3,Calcio Total,525.95,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2021-11-25 11:43,Laguna AO-3,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Cinc Total,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Cloruro,116.12,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-11-25 11:43,Laguna AO-3,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Coliformes Fecales,2.0,NMP/100ml,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Conductividad Eléctrica,3225.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2021-11-25 11:43,Laguna AO-3,Fluoruro,0.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Hierro Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Magnesio Disuelto,4.13,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-11-25 11:43,Laguna AO-3,Magnesio Total,4.43,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Potasio Disuelto,32.67,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-11-25 11:43,Laguna AO-3,Potasio Total,33.75,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Potencial de Hidrógeno,7.6,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Razón de Adsorción de Sodio,2.8,-,Igual,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Sodio Disuelto,235.17,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-11-25 11:43,Laguna AO-3,Sodio Porcentual,27.1,%,Igual,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Sodio Total,235.23,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Sulfato,1493.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-11-25 11:43,Laguna AO-3,Sólidos Disueltos Totales,2660.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-11-25 11:43,Laguna AO-3,Vanadio Total,0.007,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 00:00,Laguna AO-3,Conductividad Eléctrica,3270.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2021-12-03 00:00,Laguna AO-3,Potencial de Hidrógeno,8.25,unidad pH,Igual,Parámetros de terreno,0
+AG1,2021-12-03 00:00,Laguna AO-3,Temperatura,26.4,°C,Igual,Parámetros de terreno,0
+AG1,2021-12-03 13:38,Laguna AO-3,Aluminio Total,0.32,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Bario Total,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Bicarbonato,43.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-12-03 13:38,Laguna AO-3,Boro Total,0.41,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Calcio Disuelto,569.94,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-12-03 13:38,Laguna AO-3,Calcio Total,590.45,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2021-12-03 13:38,Laguna AO-3,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Cinc Total,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Cloruro,125.33,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-12-03 13:38,Laguna AO-3,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Conductividad Eléctrica,3381.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2021-12-03 13:38,Laguna AO-3,Fluoruro,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Hierro Total,0.08,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Magnesio Disuelto,6.32,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-12-03 13:38,Laguna AO-3,Magnesio Total,6.55,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Manganeso Total,0.06,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Molibdeno Total,0.17,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Nitrato,11.19,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Potasio Disuelto,38.0,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-12-03 13:38,Laguna AO-3,Potasio Total,44.72,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Potencial de Hidrógeno,7.7,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Razón de Adsorción de Sodio,3.3,-,Igual,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Sodio Disuelto,288.11,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-12-03 13:38,Laguna AO-3,Sodio Porcentual,29.3,%,Igual,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Sodio Total,297.48,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Sulfato,1675.3,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-12-03 13:38,Laguna AO-3,Sólidos Disueltos Totales,2620.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-03 13:38,Laguna AO-3,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 00:00,Pozo 8/A,Conductividad Eléctrica,1931.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2021-12-17 00:00,Pozo 8/A,Potencial de Hidrógeno,8.09,unidad pH,Igual,Parámetros de terreno,0
+AG1,2021-12-17 00:00,Pozo 8/A,Temperatura,19.79,°C,Igual,Parámetros de terreno,0
+AG1,2021-12-17 11:35,Pozo 8/A,Aluminio Total,0.19,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Bicarbonato,194.4,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-12-17 11:35,Pozo 8/A,Boro Total,0.1,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Calcio Disuelto,292.23,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-12-17 11:35,Pozo 8/A,Calcio Total,295.55,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2021-12-17 11:35,Pozo 8/A,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Cinc Total,0.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Cloruro,60.28,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-12-17 11:35,Pozo 8/A,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Cobre Total,0.07,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Conductividad Eléctrica,2740.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2021-12-17 11:35,Pozo 8/A,Fluoruro,0.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Hierro Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Magnesio Disuelto,59.47,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-12-17 11:35,Pozo 8/A,Magnesio Total,60.73,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Nitrato,0.08,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Potasio Disuelto,3.63,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-12-17 11:35,Pozo 8/A,Potasio Total,3.71,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Potencial de Hidrógeno,8.1,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Razón de Adsorción de Sodio,1.9,-,Igual,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Sodio Disuelto,129.19,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-12-17 11:35,Pozo 8/A,Sodio Porcentual,22.6,%,Igual,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Sodio Total,133.71,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Sulfato,1069.7,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-12-17 11:35,Pozo 8/A,Sólidos Disueltos Totales,2182.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-17 11:35,Pozo 8/A,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 00:00,Dren AO-1,Conductividad Eléctrica,3084.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2021-12-22 00:00,Dren AO-1,Potencial de Hidrógeno,6.83,unidad pH,Igual,Parámetros de terreno,0
+AG1,2021-12-22 00:00,Dren AO-1,Temperatura,23.8,°C,Igual,Parámetros de terreno,0
+AG1,2021-12-22 10:01,Dren AO-1,Aluminio Total,0.15,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Bicarbonato,126.6,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-12-22 10:01,Dren AO-1,Boro Total,0.42,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Calcio Disuelto,428.24,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-12-22 10:01,Dren AO-1,Calcio Total,434.32,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2021-12-22 10:01,Dren AO-1,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Cinc Total,0.22,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Cloruro,76.78,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-12-22 10:01,Dren AO-1,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Cobre Total,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Conductividad Eléctrica,3185.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2021-12-22 10:01,Dren AO-1,Fluoruro,3.31,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Hierro Total,0.07,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Magnesio Disuelto,79.19,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-12-22 10:01,Dren AO-1,Magnesio Total,90.51,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Manganeso Total,1.12,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Molibdeno Total,0.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Nitrato,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Potasio Disuelto,10.09,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-12-22 10:01,Dren AO-1,Potasio Total,11.06,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Potencial de Hidrógeno,7.0,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Razón de Adsorción de Sodio,2.7,-,Igual,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Sodio Disuelto,207.64,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2021-12-22 10:01,Dren AO-1,Sodio Porcentual,25.6,%,Igual,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Sodio Total,233.13,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Sulfato,1312.9,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2021-12-22 10:01,Dren AO-1,Sólidos Disueltos Totales,2786.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2021-12-22 10:01,Dren AO-1,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 00:00,Dren AO-1,Conductividad Eléctrica,3112.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-01-10 00:00,Dren AO-1,Potencial de Hidrógeno,6.95,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-01-10 00:00,Dren AO-1,Temperatura,24.1,°C,Igual,Parámetros de terreno,0
+AG1,2022-01-10 00:00,Pozo 8/A,Conductividad Eléctrica,1923.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-01-10 00:00,Pozo 8/A,Potencial de Hidrógeno,7.75,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-01-10 00:00,Pozo 8/A,Temperatura,19.3,°C,Igual,Parámetros de terreno,0
+AG1,2022-01-10 09:49,Dren AO-1,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Bicarbonato,129.7,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-01-10 09:49,Dren AO-1,Boro Total,0.37,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Calcio Disuelto,452.52,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-01-10 09:49,Dren AO-1,Calcio Total,461.27,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-01-10 09:49,Dren AO-1,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Cinc Total,0.22,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Cloruro,86.2,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-01-10 09:49,Dren AO-1,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Conductividad Eléctrica,3117.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-01-10 09:49,Dren AO-1,Fluoruro,0.07,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Hierro Total,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Magnesio Disuelto,90.8,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-01-10 09:49,Dren AO-1,Magnesio Total,102.58,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Manganeso Total,0.99,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Molibdeno Total,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Potasio Disuelto,9.07,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-01-10 09:49,Dren AO-1,Potasio Total,10.24,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Potencial de Hidrógeno,7.0,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Razón de Adsorción de Sodio,2.8,-,Igual,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Sodio Disuelto,234.72,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-01-10 09:49,Dren AO-1,Sodio Porcentual,26.0,%,Igual,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Sodio Total,256.55,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Sulfato,1418.6,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-01-10 09:49,Dren AO-1,Sólidos Disueltos Totales,2806.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 09:49,Dren AO-1,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Bicarbonato,188.7,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-01-10 10:10,Pozo 8/A,Boro Total,0.09,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Calcio Disuelto,293.38,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-01-10 10:10,Pozo 8/A,Calcio Total,313.73,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-01-10 10:10,Pozo 8/A,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Cinc Total,0.07,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Cloruro,62.91,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-01-10 10:10,Pozo 8/A,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Conductividad Eléctrica,2141.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-01-10 10:10,Pozo 8/A,Fluoruro,0.07,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Hierro Total,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Magnesio Disuelto,60.13,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-01-10 10:10,Pozo 8/A,Magnesio Total,68.65,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Molibdeno Total,0.01,mg/L,Igual,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Potasio Disuelto,2.39,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-01-10 10:10,Pozo 8/A,Potasio Total,2.7,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Potencial de Hidrógeno,7.9,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Razón de Adsorción de Sodio,2.0,-,Igual,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Sodio Disuelto,135.62,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-01-10 10:10,Pozo 8/A,Sodio Porcentual,23.3,%,Igual,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Sodio Total,149.23,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Sulfato,806.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-01-10 10:10,Pozo 8/A,Sólidos Disueltos Totales,1842.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-10 10:10,Pozo 8/A,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-13 00:00,Laguna AO-3,Conductividad Eléctrica,3309.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-01-13 00:00,Laguna AO-3,Potencial de Hidrógeno,7.85,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-01-13 00:00,Laguna AO-3,Temperatura,24.6,°C,Igual,Parámetros de terreno,0
+AG1,2022-01-13 12:30,Laguna AO-3,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Arsénico Total,0.002,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Bario Total,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Bicarbonato,37.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-01-13 12:30,Laguna AO-3,Boro Total,0.3,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Calcio Disuelto,512.49,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-01-13 12:30,Laguna AO-3,Calcio Total,527.89,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-01-13 12:30,Laguna AO-3,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Cinc Total,0.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Cloruro,175.39,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-01-13 12:30,Laguna AO-3,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Coliformes Fecales,490.0,NMP/100ml,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Conductividad Eléctrica,3298.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-01-13 12:30,Laguna AO-3,Fluoruro,0.1,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Hierro Total,0.13,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Magnesio Disuelto,2.9,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-01-13 12:30,Laguna AO-3,Magnesio Total,3.41,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Manganeso Total,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Molibdeno Total,0.11,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Potasio Disuelto,40.72,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-01-13 12:30,Laguna AO-3,Potasio Total,45.95,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Potencial de Hidrógeno,7.1,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Razón de Adsorción de Sodio,3.5,-,Igual,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Sodio Disuelto,255.99,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-01-13 12:30,Laguna AO-3,Sodio Porcentual,31.3,%,Igual,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Sodio Total,291.77,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Sulfato,1777.2,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-01-13 12:30,Laguna AO-3,Sólidos Disueltos Totales,2454.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-01-13 12:30,Laguna AO-3,Vanadio Total,0.011,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-04 00:00,Pozo 8/A,Conductividad Eléctrica,1831.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-02-04 00:00,Pozo 8/A,Potencial de Hidrógeno,7.18,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-02-04 00:00,Pozo 8/A,Temperatura,21.3,°C,Igual,Parámetros de terreno,0
+AG1,2022-02-04 10:59,Pozo 8/A,Aluminio Total,0.09,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Bicarbonato,147.5,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-02-04 10:59,Pozo 8/A,Boro Total,0.17,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Calcio Disuelto,229.78,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-02-04 10:59,Pozo 8/A,Calcio Total,231.3,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-02-04 10:59,Pozo 8/A,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Cinc Total,0.09,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Cloruro,51.77,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-02-04 10:59,Pozo 8/A,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Cobre Total,0.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Coliformes Fecales,230.0,NMP/100ml,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Conductividad Eléctrica,1896.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-02-04 10:59,Pozo 8/A,Fluoruro,0.25,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Hierro Total,0.01,mg/L,Igual,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Magnesio Disuelto,44.85,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-02-04 10:59,Pozo 8/A,Magnesio Total,45.55,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Nitrato,2.36,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Potasio Disuelto,3.16,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-02-04 10:59,Pozo 8/A,Potasio Total,3.73,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Potencial de Hidrógeno,6.8,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Razón de Adsorción de Sodio,1.8,-,Igual,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Sodio Disuelto,109.95,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-02-04 10:59,Pozo 8/A,Sodio Porcentual,24.6,%,Igual,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Sodio Total,115.41,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Sulfato,704.4,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-02-04 10:59,Pozo 8/A,Sólidos Disueltos Totales,1604.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-04 10:59,Pozo 8/A,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 00:00,Dren AO-1,Conductividad Eléctrica,3050.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-02-14 00:00,Dren AO-1,Potencial de Hidrógeno,7.61,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-02-14 00:00,Dren AO-1,Temperatura,23.0,°C,Igual,Parámetros de terreno,0
+AG1,2022-02-14 00:00,Laguna AO-3,Conductividad Eléctrica,3424.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-02-14 00:00,Laguna AO-3,Potencial de Hidrógeno,7.8,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-02-14 00:00,Laguna AO-3,Temperatura,24.5,°C,Igual,Parámetros de terreno,0
+AG1,2022-02-14 11:56,Laguna AO-3,Aluminio Total,0.13,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Arsénico Total,0.002,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Bicarbonato,28.2,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-02-14 11:56,Laguna AO-3,Boro Total,0.27,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Calcio Disuelto,467.16,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-02-14 11:56,Laguna AO-3,Calcio Total,590.86,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-02-14 11:56,Laguna AO-3,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Cinc Total,0.11,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Cloruro,156.05,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-02-14 11:56,Laguna AO-3,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Coliformes Fecales,23.0,NMP/100ml,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Conductividad Eléctrica,3459.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-02-14 11:56,Laguna AO-3,Fluoruro,0.12,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Hierro Total,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Litio Total,0.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Magnesio Disuelto,4.92,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-02-14 11:56,Laguna AO-3,Magnesio Total,5.06,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Molibdeno Total,0.08,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Nitrato,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Potasio Disuelto,40.52,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-02-14 11:56,Laguna AO-3,Potasio Total,41.57,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Potencial de Hidrógeno,7.3,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Razón de Adsorción de Sodio,3.3,-,Igual,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Sodio Disuelto,274.11,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-02-14 11:56,Laguna AO-3,Sodio Porcentual,28.9,%,Igual,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Sodio Total,290.31,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Sulfato,1770.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-02-14 11:56,Laguna AO-3,Sólidos Disueltos Totales,2288.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 11:56,Laguna AO-3,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Bicarbonato,133.9,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-02-14 12:59,Dren AO-1,Boro Total,0.43,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Cadmio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Calcio Disuelto,438.3,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-02-14 12:59,Dren AO-1,Calcio Total,620.22,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-02-14 12:59,Dren AO-1,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Cinc Total,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Cloruro,97.26,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-02-14 12:59,Dren AO-1,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Coliformes Fecales,23.0,NMP/100ml,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Conductividad Eléctrica,3109.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-02-14 12:59,Dren AO-1,Fluoruro,0.09,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Hierro Total,0.12,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Litio Total,0.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Magnesio Disuelto,53.8,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-02-14 12:59,Dren AO-1,Magnesio Total,69.68,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Molibdeno Total,0.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Nitrato,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Potasio Disuelto,19.69,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-02-14 12:59,Dren AO-1,Potasio Total,23.29,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Potencial de Hidrógeno,6.8,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Razón de Adsorción de Sodio,3.6,-,Igual,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Sodio Disuelto,246.98,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-02-14 12:59,Dren AO-1,Sodio Porcentual,29.3,%,Igual,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Sodio Total,356.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Sulfato,1563.0,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-02-14 12:59,Dren AO-1,Sólidos Disueltos Totales,2700.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-02-14 12:59,Dren AO-1,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 00:00,Dren AO-1,Conductividad Eléctrica,2721.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-03-09 00:00,Dren AO-1,Potencial de Hidrógeno,6.66,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-03-09 00:00,Dren AO-1,Temperatura,20.26,°C,Igual,Parámetros de terreno,0
+AG1,2022-03-09 11:31,Dren AO-1,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Bicarbonato,136.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-03-09 11:31,Dren AO-1,Boro Total,0.1,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Calcio Disuelto,431.1,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-03-09 11:31,Dren AO-1,Calcio Total,437.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-03-09 11:31,Dren AO-1,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Cinc Total,0.14,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Cloruro,104.96,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-03-09 11:31,Dren AO-1,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Cobre Total,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Conductividad Eléctrica,3123.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-03-09 11:31,Dren AO-1,Fluoruro,0.22,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Hierro Total,0.32,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Magnesio Disuelto,49.86,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-03-09 11:31,Dren AO-1,Magnesio Total,50.94,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Manganeso Total,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Nitrato,2.33,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Potasio Disuelto,11.45,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-03-09 11:31,Dren AO-1,Potasio Total,12.32,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Potencial de Hidrógeno,7.0,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Razón de Adsorción de Sodio,2.9,-,Igual,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Sodio Disuelto,237.45,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-03-09 11:31,Dren AO-1,Sodio Porcentual,28.6,%,Igual,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Sodio Total,243.12,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Sulfato,1691.4,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-03-09 11:31,Dren AO-1,Sólidos Disueltos Totales,2754.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-09 11:31,Dren AO-1,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-16 00:00,Laguna AO-3,Conductividad Eléctrica,3325.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-03-16 00:00,Laguna AO-3,Potencial de Hidrógeno,7.4,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-03-16 00:00,Laguna AO-3,Temperatura,22.8,°C,Igual,Parámetros de terreno,0
+AG1,2022-03-16 10:03,Laguna AO-3,Aluminio Total,0.22,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Arsénico Total,0.002,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Bicarbonato,40.9,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-03-16 10:03,Laguna AO-3,Boro Total,0.28,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Calcio Disuelto,640.15,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-03-16 10:03,Laguna AO-3,Calcio Total,651.81,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-03-16 10:03,Laguna AO-3,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Cinc Total,0.07,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Cloruro,153.38,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-03-16 10:03,Laguna AO-3,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Cobre Total,0.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Coliformes Fecales,23.0,NMP/100ml,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Conductividad Eléctrica,3365.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-03-16 10:03,Laguna AO-3,Fluoruro,0.45,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Hierro Total,0.18,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Magnesio Disuelto,9.13,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-03-16 10:03,Laguna AO-3,Magnesio Total,10.34,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Manganeso Total,0.07,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Molibdeno Total,0.14,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Nitrato,4.38,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Potasio Disuelto,46.71,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-03-16 10:03,Laguna AO-3,Potasio Total,47.39,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Potencial de Hidrógeno,6.4,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Razón de Adsorción de Sodio,3.4,-,Igual,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Sodio Disuelto,309.55,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-03-16 10:03,Laguna AO-3,Sodio Porcentual,28.3,%,Igual,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Sodio Total,314.93,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Sulfato,1896.9,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-03-16 10:03,Laguna AO-3,Sólidos Disueltos Totales,2862.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-03-16 10:03,Laguna AO-3,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 00:00,Pozo 8/A,Conductividad Eléctrica,3064.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-04-08 00:00,Pozo 8/A,Potencial de Hidrógeno,7.66,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-04-08 00:00,Pozo 8/A,Temperatura,20.1,°C,Igual,Parámetros de terreno,0
+AG1,2022-04-08 10:10,Pozo 8/A,Aluminio Total,0.11,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Bicarbonato,269.0,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-04-08 10:10,Pozo 8/A,Boro Total,0.12,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Calcio Disuelto,484.01,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-04-08 10:10,Pozo 8/A,Calcio Total,563.85,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-04-08 10:10,Pozo 8/A,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Cinc Total,0.26,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Cloruro,97.39,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-04-08 10:10,Pozo 8/A,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Conductividad Eléctrica,3069.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-04-08 10:10,Pozo 8/A,Fluoruro,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Hierro Total,0.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Magnesio Disuelto,104.37,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-04-08 10:10,Pozo 8/A,Magnesio Total,105.1,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Nitrato,3.92,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Potasio Disuelto,5.93,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-04-08 10:10,Pozo 8/A,Potasio Total,6.08,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Potencial de Hidrógeno,7.4,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Razón de Adsorción de Sodio,2.3,-,Igual,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Sodio Disuelto,222.27,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-04-08 10:10,Pozo 8/A,Sodio Porcentual,20.8,%,Igual,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Sodio Total,223.7,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Sulfato,1331.9,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-04-08 10:10,Pozo 8/A,Sólidos Disueltos Totales,2656.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-08 10:10,Pozo 8/A,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 00:00,Dren AO-1,Conductividad Eléctrica,3043.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-04-18 00:00,Dren AO-1,Potencial de Hidrógeno,7.48,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-04-18 00:00,Dren AO-1,Temperatura,20.3,°C,Igual,Parámetros de terreno,0
+AG1,2022-04-18 00:00,Laguna AO-3,Conductividad Eléctrica,3128.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-04-18 00:00,Laguna AO-3,Potencial de Hidrógeno,7.46,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-04-18 00:00,Laguna AO-3,Temperatura,17.4,°C,Igual,Parámetros de terreno,0
+AG1,2022-04-18 10:59,Laguna AO-3,Aluminio Total,0.21,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Arsénico Total,0.002,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Bicarbonato,29.5,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-04-18 10:59,Laguna AO-3,Boro Total,0.28,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Calcio Disuelto,510.4,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-04-18 10:59,Laguna AO-3,Calcio Total,594.15,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-04-18 10:59,Laguna AO-3,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Cinc Total,0.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Cloruro,142.06,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-04-18 10:59,Laguna AO-3,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Conductividad Eléctrica,3171.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-04-18 10:59,Laguna AO-3,Fluoruro,0.08,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Hierro Total,0.18,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Magnesio Disuelto,5.3,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-04-18 10:59,Laguna AO-3,Magnesio Total,5.46,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Molibdeno Total,0.07,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Nitrato,7.4,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Potasio Disuelto,41.41,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-04-18 10:59,Laguna AO-3,Potasio Total,43.67,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Potencial de Hidrógeno,7.1,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Razón de Adsorción de Sodio,3.1,-,Igual,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Sodio Disuelto,274.99,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-04-18 10:59,Laguna AO-3,Sodio Porcentual,27.8,%,Igual,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Sodio Total,276.99,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Sulfato,1469.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-04-18 10:59,Laguna AO-3,Sólidos Disueltos Totales,2709.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 10:59,Laguna AO-3,Vanadio Total,0.011,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Bicarbonato,123.7,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-04-18 12:10,Dren AO-1,Boro Total,0.39,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Calcio Disuelto,430.0,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-04-18 12:10,Dren AO-1,Calcio Total,480.94,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-04-18 12:10,Dren AO-1,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Cinc Total,0.14,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Cloruro,109.58,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-04-18 12:10,Dren AO-1,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Conductividad Eléctrica,3069.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-04-18 12:10,Dren AO-1,Fluoruro,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Hierro Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Magnesio Disuelto,77.29,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-04-18 12:10,Dren AO-1,Magnesio Total,80.16,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Manganeso Total,0.96,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Nitrato,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Potasio Disuelto,11.85,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-04-18 12:10,Dren AO-1,Potasio Total,12.37,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Potencial de Hidrógeno,6.8,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Razón de Adsorción de Sodio,2.7,-,Igual,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Sodio Disuelto,231.24,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-04-18 12:10,Dren AO-1,Sodio Porcentual,25.7,%,Igual,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Sodio Total,246.14,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Sulfato,1480.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-04-18 12:10,Dren AO-1,Sólidos Disueltos Totales,2610.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-04-18 12:10,Dren AO-1,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 00:00,Laguna AO-3,Conductividad Eléctrica,3092.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-05-12 00:00,Laguna AO-3,Potencial de Hidrógeno,7.43,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-05-12 00:00,Laguna AO-3,Temperatura,16.95,°C,Igual,Parámetros de terreno,0
+AG1,2022-05-12 00:00,Pozo 8/A,Conductividad Eléctrica,3094.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-05-12 00:00,Pozo 8/A,Potencial de Hidrógeno,7.62,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-05-12 00:00,Pozo 8/A,Temperatura,19.35,°C,Igual,Parámetros de terreno,0
+AG1,2022-05-12 12:40,Pozo 8/A,Aluminio Total,0.06,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Bicarbonato,241.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-05-12 12:40,Pozo 8/A,Boro Total,0.19,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Calcio Disuelto,483.18,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-05-12 12:40,Pozo 8/A,Calcio Total,484.32,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-05-12 12:40,Pozo 8/A,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Cinc Total,0.35,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Cloruro,96.7,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-05-12 12:40,Pozo 8/A,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Conductividad Eléctrica,3077.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-05-12 12:40,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-05-12 12:40,Pozo 8/A,Fluoruro,0.7,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Hierro Total,0.17,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Magnesio Disuelto,96.21,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-05-12 12:40,Pozo 8/A,Magnesio Total,97.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Nitrato,9.12,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Potasio Disuelto,5.98,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-05-12 12:40,Pozo 8/A,Potasio Total,6.01,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Potencial de Hidrógeno,7.8,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Razón de Adsorción de Sodio,2.4,-,Igual,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Sodio Disuelto,222.15,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-05-12 12:40,Pozo 8/A,Sodio Porcentual,23.1,%,Igual,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Sodio Total,223.57,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Sulfato,1812.7,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-05-12 12:40,Pozo 8/A,Sólidos Disueltos Totales,2762.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-12 12:40,Pozo 8/A,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 00:00,Dren AO-1,Conductividad Eléctrica,3104.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-05-31 00:00,Dren AO-1,Potencial de Hidrógeno,6.9,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-05-31 00:00,Dren AO-1,Temperatura,18.05,°C,Igual,Parámetros de terreno,0
+AG1,2022-05-31 10:50,Dren AO-1,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Arsénico Total,0.007,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Bicarbonato,121.5,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-05-31 10:50,Dren AO-1,Boro Total,0.4,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Calcio Disuelto,436.74,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-05-31 10:50,Dren AO-1,Calcio Total,437.62,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-05-31 10:50,Dren AO-1,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Cinc Total,0.14,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Cloruro,84.71,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-05-31 10:50,Dren AO-1,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Cobre Total,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Conductividad Eléctrica,3049.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-05-31 10:50,Dren AO-1,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-05-31 10:50,Dren AO-1,Fluoruro,0.19,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Hierro Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Magnesio Disuelto,84.83,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-05-31 10:50,Dren AO-1,Magnesio Total,85.7,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Manganeso Total,1.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Nitrato,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Potasio Disuelto,12.04,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-05-31 10:50,Dren AO-1,Potasio Total,12.32,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Potencial de Hidrógeno,6.6,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Razón de Adsorción de Sodio,2.9,-,Igual,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Sodio Disuelto,249.27,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-05-31 10:50,Dren AO-1,Sodio Porcentual,27.1,%,Igual,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Sodio Total,250.41,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Sulfato,1421.0,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-05-31 10:50,Dren AO-1,Sólidos Disueltos Totales,2708.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-05-31 10:50,Dren AO-1,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 00:00,Laguna AO-3,Conductividad Eléctrica,2504.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-06-07 00:00,Laguna AO-3,Potencial de Hidrógeno,6.63,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-06-07 00:00,Laguna AO-3,Temperatura,14.95,°C,Igual,Parámetros de terreno,0
+AG1,2022-06-07 00:00,Pozo 8/A,Conductividad Eléctrica,3088.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-06-07 00:00,Pozo 8/A,Potencial de Hidrógeno,6.77,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-06-07 00:00,Pozo 8/A,Temperatura,14.65,°C,Igual,Parámetros de terreno,0
+AG1,2022-06-07 08:07,Pozo 8/A,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Bicarbonato,270.9,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-06-07 08:07,Pozo 8/A,Boro Total,0.19,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Calcio Disuelto,444.47,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-06-07 08:07,Pozo 8/A,Calcio Total,585.72,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-06-07 08:07,Pozo 8/A,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Cinc Total,0.27,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Cloruro,108.93,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-06-07 08:07,Pozo 8/A,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Conductividad Eléctrica,3070.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-06-07 08:07,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-06-07 08:07,Pozo 8/A,Fluoruro,0.06,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Hierro Total,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Magnesio Disuelto,91.87,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-06-07 08:07,Pozo 8/A,Magnesio Total,115.26,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Manganeso Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Nitrato,2.64,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Potasio Disuelto,4.22,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-06-07 08:07,Pozo 8/A,Potasio Total,5.68,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Potencial de Hidrógeno,7.6,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Razón de Adsorción de Sodio,2.5,-,Igual,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Sodio Disuelto,200.85,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-06-07 08:07,Pozo 8/A,Sodio Porcentual,21.8,%,Igual,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Sodio Total,249.92,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Sulfato,1852.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-06-07 08:07,Pozo 8/A,Sólidos Disueltos Totales,2718.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 08:07,Pozo 8/A,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Arsénico Total,0.001,mg/L,Igual,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Bicarbonato,63.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-06-07 12:45,Laguna AO-3,Boro Total,0.18,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Calcio Disuelto,483.95,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-06-07 12:45,Laguna AO-3,Calcio Total,510.24,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-06-07 12:45,Laguna AO-3,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Cinc Total,0.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Cloruro,131.67,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-06-07 12:45,Laguna AO-3,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Cobre Total,0.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Conductividad Eléctrica,2465.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-06-07 12:45,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-06-07 12:45,Laguna AO-3,Fluoruro,0.09,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Hierro Total,0.08,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Magnesio Disuelto,11.6,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-06-07 12:45,Laguna AO-3,Magnesio Total,11.85,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Manganeso Total,0.1,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Molibdeno Total,0.07,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Nitrato,13.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Potasio Disuelto,32.94,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-06-07 12:45,Laguna AO-3,Potasio Total,34.94,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Potencial de Hidrógeno,7.2,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Razón de Adsorción de Sodio,2.5,-,Igual,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Sodio Disuelto,208.91,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-06-07 12:45,Laguna AO-3,Sodio Porcentual,24.9,%,Igual,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Sodio Total,209.28,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Sulfato,1412.8,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-06-07 12:45,Laguna AO-3,Sólidos Disueltos Totales,2126.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-07 12:45,Laguna AO-3,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 00:00,Dren AO-1,Conductividad Eléctrica,3035.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-06-28 00:00,Dren AO-1,Potencial de Hidrógeno,7.68,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-06-28 00:00,Dren AO-1,Temperatura,18.89,°C,Igual,Parámetros de terreno,0
+AG1,2022-06-28 16:54,Dren AO-1,Aluminio Total,0.07,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Bicarbonato,109.8,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-06-28 16:54,Dren AO-1,Boro Total,0.36,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Calcio Disuelto,394.39,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-06-28 16:54,Dren AO-1,Calcio Total,452.29,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-06-28 16:54,Dren AO-1,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Cinc Total,0.15,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Cloruro,119.6,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-06-28 16:54,Dren AO-1,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Cobre Total,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Conductividad Eléctrica,3000.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-06-28 16:54,Dren AO-1,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-06-28 16:54,Dren AO-1,Fluoruro,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Hierro Total,0.07,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Magnesio Disuelto,71.66,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-06-28 16:54,Dren AO-1,Magnesio Total,80.13,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Manganeso Total,0.97,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Molibdeno Total,0.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Nitrato,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Potasio Disuelto,10.4,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-06-28 16:54,Dren AO-1,Potasio Total,11.55,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Potencial de Hidrógeno,7.0,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Razón de Adsorción de Sodio,2.9,-,Igual,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Sodio Disuelto,224.25,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-06-28 16:54,Dren AO-1,Sodio Porcentual,27.0,%,Igual,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Sodio Total,251.62,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Sulfato,1741.9,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-06-28 16:54,Dren AO-1,Sólidos Disueltos Totales,2714.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-06-28 16:54,Dren AO-1,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 00:00,ET-0F,Conductividad Eléctrica,802.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-07-11 00:00,ET-0F,Potencial de Hidrógeno,8.14,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-07-11 00:00,ET-0F,Temperatura,10.86,°C,Igual,Parámetros de terreno,0
+AG1,2022-07-11 11:28,ET-0F,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Arsénico Total,0.001,mg/L,Igual,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Bicarbonato,108.5,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-07-11 11:28,ET-0F,Boro Total,0.38,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Calcio Disuelto,89.45,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-07-11 11:28,ET-0F,Calcio Total,92.64,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-07-11 11:28,ET-0F,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Cinc Total,0.01,mg/L,Igual,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Cloruro,70.22,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-07-11 11:28,ET-0F,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Cobre Total,0.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Coliformes Fecales,11.0,NMP/100ml,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Conductividad Eléctrica,786.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-07-11 11:28,ET-0F,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-07-11 11:28,ET-0F,Fluoruro,0.06,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Hierro Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Litio Total,0.1,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Magnesio Disuelto,22.91,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-07-11 11:28,ET-0F,Magnesio Total,23.94,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Manganeso Total,0.06,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Nitrato,15.13,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Potasio Disuelto,0.97,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-07-11 11:28,ET-0F,Potasio Total,1.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Potencial de Hidrógeno,7.8,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Razón de Adsorción de Sodio,0.57,-,Igual,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Sodio Disuelto,20.79,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-07-11 11:28,ET-0F,Sodio Porcentual,13.4,%,Igual,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Sodio Total,23.68,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Sulfato,210.3,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-07-11 11:28,ET-0F,Sólidos Disueltos Totales,542.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-11 11:28,ET-0F,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 00:00,Pozo 8/A,Conductividad Eléctrica,3165.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-07-15 00:00,Pozo 8/A,Potencial de Hidrógeno,7.47,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-07-15 00:00,Pozo 8/A,Temperatura,17.09,°C,Igual,Parámetros de terreno,0
+AG1,2022-07-15 08:40,Pozo 8/A,Aluminio Total,0.09,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Bicarbonato,271.2,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-07-15 08:40,Pozo 8/A,Boro Total,0.06,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Calcio Disuelto,453.46,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-07-15 08:40,Pozo 8/A,Calcio Total,453.47,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-07-15 08:40,Pozo 8/A,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Cinc Total,0.23,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Cloruro,117.8,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-07-15 08:40,Pozo 8/A,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Cobre Total,0.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Conductividad Eléctrica,3134.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-07-15 08:40,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-07-15 08:40,Pozo 8/A,Fluoruro,0.14,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Hierro Total,0.19,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Litio Total,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Magnesio Disuelto,93.77,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-07-15 08:40,Pozo 8/A,Magnesio Total,94.08,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Manganeso Total,0.11,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Nitrato,3.89,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Potasio Disuelto,5.38,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-07-15 08:40,Pozo 8/A,Potasio Total,6.15,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Potencial de Hidrógeno,7.7,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Razón de Adsorción de Sodio,2.4,-,Igual,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Sodio Disuelto,210.78,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-07-15 08:40,Pozo 8/A,Sodio Porcentual,23.4,%,Igual,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Sodio Total,214.29,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Sulfato,1733.9,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-07-15 08:40,Pozo 8/A,Sólidos Disueltos Totales,2824.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-15 08:40,Pozo 8/A,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 00:00,Laguna AO-3,Conductividad Eléctrica,1891.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-07-18 00:00,Laguna AO-3,Potencial de Hidrógeno,8.06,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-07-18 00:00,Laguna AO-3,Temperatura,7.37,°C,Igual,Parámetros de terreno,0
+AG1,2022-07-18 09:55,Laguna AO-3,Aluminio Total,0.05,mg/L,Igual,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Bicarbonato,28.9,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-07-18 09:55,Laguna AO-3,Boro Total,0.14,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Calcio Disuelto,283.0,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-07-18 09:55,Laguna AO-3,Calcio Total,325.51,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-07-18 09:55,Laguna AO-3,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Cinc Total,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Cloruro,120.57,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-07-18 09:55,Laguna AO-3,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Coliformes Fecales,2.0,NMP/100ml,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Conductividad Eléctrica,1906.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-07-18 09:55,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-07-18 09:55,Laguna AO-3,Fluoruro,0.17,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Hierro Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Litio Total,0.01,mg/L,Igual,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Magnesio Disuelto,7.84,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-07-18 09:55,Laguna AO-3,Magnesio Total,8.95,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Manganeso Total,0.06,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Nitrato,13.52,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Potasio Disuelto,28.42,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-07-18 09:55,Laguna AO-3,Potasio Total,31.59,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Potencial de Hidrógeno,7.5,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Razón de Adsorción de Sodio,2.3,-,Igual,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Sodio Disuelto,133.87,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-07-18 09:55,Laguna AO-3,Sodio Porcentual,27.0,%,Igual,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Sodio Total,151.95,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Sulfato,926.4,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-07-18 09:55,Laguna AO-3,Sólidos Disueltos Totales,1492.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-07-18 09:55,Laguna AO-3,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 00:00,ET-0F,Conductividad Eléctrica,270.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-08-02 00:00,ET-0F,Potencial de Hidrógeno,6.21,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-08-02 00:00,ET-0F,Temperatura,10.17,°C,Igual,Parámetros de terreno,0
+AG1,2022-08-02 11:40,ET-0F,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Bicarbonato,85.6,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-08-02 11:40,ET-0F,Boro Total,0.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Calcio Disuelto,37.3,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-08-02 11:40,ET-0F,Calcio Total,39.81,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-08-02 11:40,ET-0F,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Cinc Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Cloruro,20.19,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-08-02 11:40,ET-0F,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Cobre Total,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Coliformes Fecales,130.0,NMP/100ml,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Conductividad Eléctrica,335.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-08-02 11:40,ET-0F,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-08-02 11:40,ET-0F,Fluoruro,0.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Hierro Total,0.01,mg/L,Igual,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Magnesio Disuelto,9.69,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-08-02 11:40,ET-0F,Magnesio Total,10.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Manganeso Total,0.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Nitrato,5.79,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Potasio Disuelto,0.01,mg/L,Menor a,Cationes mayoritarios,0
+AG1,2022-08-02 11:40,ET-0F,Potasio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Potencial de Hidrógeno,7.8,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Razón de Adsorción de Sodio,0.37,-,Igual,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Sodio Disuelto,10.05,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-08-02 11:40,ET-0F,Sodio Porcentual,13.5,%,Igual,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Sodio Total,10.16,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Sulfato,64.0,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-08-02 11:40,ET-0F,Sólidos Disueltos Totales,199.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-02 11:40,ET-0F,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 00:00,Laguna AO-3,Conductividad Eléctrica,2036.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-08-09 00:00,Laguna AO-3,Potencial de Hidrógeno,8.43,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-08-09 00:00,Laguna AO-3,Temperatura,10.01,°C,Igual,Parámetros de terreno,0
+AG1,2022-08-09 00:00,Pozo 8/A,Conductividad Eléctrica,3256.0,uS/cm,Igual,Parámetros de terreno,0
+AG1,2022-08-09 00:00,Pozo 8/A,Potencial de Hidrógeno,7.18,unidad pH,Igual,Parámetros de terreno,0
+AG1,2022-08-09 00:00,Pozo 8/A,Temperatura,17.11,°C,Igual,Parámetros de terreno,0
+AG1,2022-08-09 08:20,Laguna AO-3,Aluminio Total,0.34,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Arsénico Total,0.001,mg/L,Igual,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Bicarbonato,23.2,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-08-09 08:20,Laguna AO-3,Boro Total,0.26,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Calcio Disuelto,318.5,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-08-09 08:20,Laguna AO-3,Calcio Total,345.75,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-08-09 08:20,Laguna AO-3,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Cinc Total,0.1,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Cloruro,91.04,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-08-09 08:20,Laguna AO-3,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Cobre Total,0.06,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Conductividad Eléctrica,2064.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-08-09 08:20,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-08-09 08:20,Laguna AO-3,Fluoruro,0.11,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Hierro Total,0.46,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Magnesio Disuelto,8.26,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-08-09 08:20,Laguna AO-3,Magnesio Total,8.39,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Manganeso Total,0.06,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Nitrato,12.07,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Potasio Disuelto,27.95,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-08-09 08:20,Laguna AO-3,Potasio Total,28.88,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Potencial de Hidrógeno,7.3,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Razón de Adsorción de Sodio,2.4,-,Igual,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Sodio Disuelto,151.44,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-08-09 08:20,Laguna AO-3,Sodio Porcentual,27.4,%,Igual,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Sodio Total,162.34,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Sulfato,1100.2,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-08-09 08:20,Laguna AO-3,Sólidos Disueltos Totales,1536.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 08:20,Laguna AO-3,Vanadio Total,0.006,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Bicarbonato,293.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-08-09 10:10,Pozo 8/A,Boro Total,0.19,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Calcio Disuelto,477.06,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-08-09 10:10,Pozo 8/A,Calcio Total,517.71,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-08-09 10:10,Pozo 8/A,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Cinc Total,0.64,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Cloruro,98.88,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-08-09 10:10,Pozo 8/A,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Cobre Total,0.03,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Conductividad Eléctrica,3227.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-08-09 10:10,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-08-09 10:10,Pozo 8/A,Fluoruro,0.07,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Hierro Total,0.04,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Magnesio Disuelto,91.51,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-08-09 10:10,Pozo 8/A,Magnesio Total,111.2,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Manganeso Total,0.67,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Nitrato,3.71,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Potasio Disuelto,3.6,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-08-09 10:10,Pozo 8/A,Potasio Total,4.2,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Potencial de Hidrógeno,7.4,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Razón de Adsorción de Sodio,2.5,-,Igual,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Sodio Disuelto,216.82,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-08-09 10:10,Pozo 8/A,Sodio Porcentual,22.9,%,Igual,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Sodio Total,239.83,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Sulfato,1697.8,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-08-09 10:10,Pozo 8/A,Sólidos Disueltos Totales,2982.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-08-09 10:10,Pozo 8/A,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Aluminio Total,0.08,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Bario Total,0.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Bicarbonato,28.5,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-09-05 08:15,Laguna AO-3,Boro Total,0.22,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Calcio Disuelto,343.36,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-09-05 08:15,Laguna AO-3,Calcio Total,350.99,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-09-05 08:15,Laguna AO-3,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Cinc Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Cloruro,120.27,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-09-05 08:15,Laguna AO-3,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Cobre Total,0.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Coliformes Fecales,79.0,NMP/100ml,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Conductividad Eléctrica,2213.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-09-05 08:15,Laguna AO-3,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-09-05 08:15,Laguna AO-3,Fluoruro,0.31,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Hierro Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Magnesio Disuelto,6.77,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-09-05 08:15,Laguna AO-3,Magnesio Total,7.16,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Manganeso Total,0.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Nitrato,4.84,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Potasio Disuelto,35.98,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-09-05 08:15,Laguna AO-3,Potasio Total,37.23,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Potencial de Hidrógeno,7.9,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Razón de Adsorción de Sodio,2.5,-,Igual,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Selenio Total,0.001,mg/L,Igual,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Sodio Disuelto,170.7,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-09-05 08:15,Laguna AO-3,Sodio Porcentual,28.4,%,Igual,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Sodio Total,174.53,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Sulfato,1088.1,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-09-05 08:15,Laguna AO-3,Sólidos Disueltos Totales,1768.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 08:15,Laguna AO-3,Vanadio Total,0.01,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Aluminio Total,0.05,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Bicarbonato,303.9,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-09-05 11:15,Pozo 8/A,Boro Total,0.18,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Calcio Disuelto,506.62,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-09-05 11:15,Pozo 8/A,Calcio Total,547.52,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-09-05 11:15,Pozo 8/A,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Cinc Total,0.37,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Cloruro,123.33,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-09-05 11:15,Pozo 8/A,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Coliformes Fecales,1.8,NMP/100ml,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Conductividad Eléctrica,3260.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-09-05 11:15,Pozo 8/A,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-09-05 11:15,Pozo 8/A,Fluoruro,0.36,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Hierro Total,0.6,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Magnesio Disuelto,100.95,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-09-05 11:15,Pozo 8/A,Magnesio Total,108.49,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Manganeso Total,0.05,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Nitrato,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Potasio Disuelto,3.99,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-09-05 11:15,Pozo 8/A,Potasio Total,4.5,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Potencial de Hidrógeno,7.3,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Razón de Adsorción de Sodio,2.4,-,Igual,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Sodio Disuelto,221.15,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-09-05 11:15,Pozo 8/A,Sodio Porcentual,21.9,%,Igual,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Sodio Total,234.32,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Sulfato,1784.0,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-09-05 11:15,Pozo 8/A,Sólidos Disueltos Totales,2800.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-05 11:15,Pozo 8/A,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Aluminio Total,0.05,mg/L,Igual,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Antimonio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Arsénico Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Bario Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Berilio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Bicarbonato,100.9,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-09-27 12:05,ET-0F,Boro Total,0.09,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Cadmio Total,0.005,MG/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Calcio Disuelto,34.16,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-09-27 12:05,ET-0F,Calcio Total,37.45,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Carbonato,0.2,mg/L,Menor a,Aniones mayoritarios,0
+AG1,2022-09-27 12:05,ET-0F,Cianuro Total,0.02,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Cinc Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Cloruro,14.5,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-09-27 12:05,ET-0F,Cobalto Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Cobre Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Coliformes Fecales,23.0,NMP/100ml,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Conductividad Eléctrica,373.0,uS/cm,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Cromo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-09-27 12:05,ET-0F,Error del Balance Iónico,10.0,%,Menor a,Error del Balance Iónico,0
+AG1,2022-09-27 12:05,ET-0F,Fluoruro,0.02,mg/L,Igual,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Hierro Total,0.02,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Litio Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Magnesio Disuelto,12.53,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-09-27 12:05,ET-0F,Magnesio Total,15.37,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Manganeso Total,0.01,mg/L,Igual,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Mercurio Total,0.0005,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Molibdeno Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Nitrato,2.37,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Níquel Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Plata Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Plomo Total,0.01,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Potasio Disuelto,0.82,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-09-27 12:05,ET-0F,Potasio Total,1.09,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Potencial de Hidrógeno,8.2,unidad pH,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Razón de Adsorción de Sodio,0.64,-,Igual,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Selenio Total,0.001,mg/L,Menor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Sodio Disuelto,11.7,mg/L,Mayor a,Cationes mayoritarios,0
+AG1,2022-09-27 12:05,ET-0F,Sodio Porcentual,20.1,%,Igual,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Sodio Total,18.31,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Sulfato,66.7,mg/L,Mayor a,Aniones mayoritarios,0
+AG1,2022-09-27 12:05,ET-0F,Sólidos Disueltos Totales,213.0,mg/L,Mayor a,Parámetros de laboratorio,0
+AG1,2022-09-27 12:05,ET-0F,Vanadio Total,0.005,mg/L,Menor a,Parámetros de laboratorio,0

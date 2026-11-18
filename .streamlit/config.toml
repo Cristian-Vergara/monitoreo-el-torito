@@ -1,0 +1,16 @@
+# Tema claro y oscuro (Streamlit 1.67). Se elige en el menú ⋮ → Settings: Light, Dark o System.
+[theme.light]
+primaryColor = "#243B53"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F6F9"
+textColor = "#1F2933"
+
+[theme.dark]
+# Azul medio: contraste ≈ 4,6:1 sobre el fondo oscuro y ≈ 4,5:1 con el texto blanco de los botones
+primaryColor = "#3D7DC4"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#1A1F2B"
+textColor = "#E6EAF0"
+
+[server]
+maxUploadSize = 20
